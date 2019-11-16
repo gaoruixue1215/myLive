@@ -1,0 +1,25 @@
+/* .am-carousel-wrap-dot > span {
+  width: 15px !important;
+  height: 5px !important;
+  margin: 0 3px !important;
+  border-radius: 2px !important;
+} */
+.am-grid-item-content {
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+}
+
+.am-flexbox-item .am-grid-item{
+  border:none !important;
+}
+
+.am-whitespace.am-whitespace-md {
+  height: 0px !important;
+}
+
+.am-search {
+  background-color: transparent !important;
+}
+.am-search-input {
+  background-color: rgba(255,255,255,0.8) !important;
+}
